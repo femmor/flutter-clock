@@ -1,5 +1,5 @@
-import 'package:ediclock/screens/home.dart';
-import 'package:flutter/material.dart';
+import "package:flutter/material.dart";
+import 'screens/home.dart';
 
 void main() {
   runApp(MyApp());
